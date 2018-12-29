@@ -8,7 +8,7 @@
 - [x] 基础功能：云开发数据库查询数据及分页，vuex数据共享
 
 ![Alt text](https://raw.githubusercontent.com/hilanmiao/Demo-WeChatMiniProgram-Cloud/master/Screen/screen1.png)
-![Alt text](https://raw.githubusercontent.com/hilanmiao/Demo-WeChatMiniProgram-Cloud/master/Screen/screen2.png)
+![Alt text](https://raw.githubusercontent.com/hilanmiao/Demo-WeChatMiniProgram-Cloud/master/Screen/screen2.jpg)
 
 #### 软件架构
     "mpvue": "^1.0.11",

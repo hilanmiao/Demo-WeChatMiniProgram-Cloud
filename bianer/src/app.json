@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/detail/main",
+    "pages/about/main"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#f44",
+    "navigationBarTitleText": "傍边",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#f44"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#f44",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "static/images/home-selected.png",
+        "iconPath": "static/images/home.png",
+        "pagePath": "pages/home/main",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "static/images/message-selected.png",
+        "iconPath": "static/images/message.png",
+        "pagePath": "pages/about/main",
+        "text": "介绍"
+      }
+    ]
+  }
+}
